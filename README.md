@@ -1,2 +1,5 @@
-# smart-hamster
-A simple script with the ability to automatically buy the best Hamster Kombat cards and collect coins
+# Smart-Hamster
+
+**Features:**
+* Automated Clicker Service for automating in-game clicking actions.
+* Automated Purchase of the best cards based on predefined criteria.
